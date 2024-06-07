@@ -1,3 +1,22 @@
+## Akun Admin
+### Admin
+
+username : admin
+password : admin123
+
+### Pengelola
+
+Username : alamak1
+Password : 123123123
+
+Username : alamak2
+Password : 123123123
+
+Username : alamak3
+Password : 123123123
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
