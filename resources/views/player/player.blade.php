@@ -25,6 +25,5 @@
                 @endforeach
             </tbody>
         </table>
-        <a href="{{ route('home') }}" class="btn btn-primary">Back</a>
     </div>
 @endsection

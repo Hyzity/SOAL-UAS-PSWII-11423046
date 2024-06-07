@@ -14,7 +14,6 @@
             </div>
         @endif
         <div class="modal-body">
-            <!-- Isi Formulir Tambah Lokasi -->
             <form id="addLocationForm" action="{{ route('create_lokasi') }}" method="POST" enctype="multipart/form-data">
                 @csrf
                 <div class="form-group">
@@ -28,10 +27,6 @@
                 <div class="form-group">
                     <label for="deskripsi">Deskripsi</label>
                     <textarea class="form-control" id="deskripsi" name="deskripsi" required></textarea>
-                </div>
-                <div class="form-group">
-                    <label for="foto">Foto</label>
-                    <input type="file" class="form-control" id="foto" name="foto">
                 </div>
                 <button type="submit" class="btn btn-primary">Save changes</button>
             </form>
